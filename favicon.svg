@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1200px" height="1200px" viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200" xml:space="preserve">
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-7" y1="602" x2="203" y2="602">
+		<stop  offset="0" style="stop-color:#F2385A;stop-opacity:0.5"/>
+		<stop  offset="1" style="stop-color:#F2385A"/>
+	</linearGradient>
+	<rect x="-7" y="197" fill="url(#SVGID_1_)" width="210" height="810"/>
+	<path d="M198,202v800H-2V202H198 M208,192h-10H-2h-10v10v800v10h10h200h10v-10V202V192L208,192z"/>
+</g>
+<g>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="394" y1="601" x2="604" y2="601">
+		<stop  offset="0" style="stop-color:#F5A503;stop-opacity:0.5"/>
+		<stop  offset="1" style="stop-color:#F5A503"/>
+	</linearGradient>
+	<rect x="394" y="196" fill="url(#SVGID_2_)" width="210" height="810"/>
+	<path d="M599,201v800H399V201H599 M609,191h-10H399h-10v10v800v10h10h200h10v-10V201V191L609,191z"/>
+</g>
+<g>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="794" y1="251" x2="1004" y2="251">
+		<stop  offset="0" style="stop-color:#E9F1D1;stop-opacity:0.5"/>
+		<stop  offset="1" style="stop-color:#E9F1D1"/>
+	</linearGradient>
+	<rect x="794" y="-4" fill="url(#SVGID_3_)" width="210" height="510"/>
+	<path d="M999,1v500H799V1H999 M1009-9h-10H799h-10V1v500v10h10h200h10v-10V1V-9L1009-9z"/>
+</g>
+<g>
+	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="794" y1="951" x2="1004" y2="951">
+		<stop  offset="0" style="stop-color:#A4ECEC"/>
+		<stop  offset="1" style="stop-color:#4AD9D9"/>
+	</linearGradient>
+	<rect x="794" y="696" fill="url(#SVGID_4_)" width="210" height="510"/>
+	<path d="M999,701v500H799V701H999 M1009,691h-10H799h-10v10v500v10h10h200h10v-10V701V691L1009,691z"/>
+</g>
+</svg>
